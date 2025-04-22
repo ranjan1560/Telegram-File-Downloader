@@ -113,4 +113,4 @@ This script is for educational and automation purposes only. Respect privacy and
 
 ## 📬 Credits
 
-Built by [Ranjan Kumar].
+Built by Ranjan Kumar.
