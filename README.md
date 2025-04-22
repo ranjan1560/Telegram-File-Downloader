@@ -12,7 +12,7 @@ A powerful Python script that automatically joins Telegram channels, downloads d
 - 🔄 Skips already-downloaded files to avoid duplicates.
 - 📦 Logs all downloads and skipped files.
 - 🌐 Sends status updates to a Discord webhook.
-- 🛡️ Skips files larger than 2GB automatically.
+- 🛡️ Skips files larger than 2GB automatically.(Telegram has a limit of 2 GB per file)
 - 📊 Uses progress bars for large downloads (via `tqdm`).
 
 ---
