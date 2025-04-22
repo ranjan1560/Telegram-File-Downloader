@@ -50,7 +50,7 @@ channels = ['channel_username_1', 'channel_username_2']
 ## ▶️ How to Run
 
 ```bash
-python3 telegram_downloader.py
+python3 telegram.py
 ```
 
 The script will:
