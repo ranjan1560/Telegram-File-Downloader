@@ -15,7 +15,7 @@ channels = ['channel-1', 'channel-2']
 base_download_dir = 'downloads'
 AUTO_JOIN_CHANNELS = True
 SKIP_EXTENSIONS = ['.mkv', '.mp4']  # ← Extensions to skip
-WEBHOOK_URL = 'Your_WEBHook_URL'
+WEBHOOK_URL = 'Your_WEBHook_URL'    # ← Replace with your Webhook URL
 
 os.makedirs(base_download_dir, exist_ok=True)
 
